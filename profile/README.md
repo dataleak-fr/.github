@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=En%20mission;pour%20prévenir%20les%20usagers%20;lors%20d'une%20fuite%20de%20données;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=En%20mission;pour%20prévenir%20les%20usagers%20;lors%20d'une%20fuite%20de%20données;&font=Fira%20Code&center=true&width=440&height=45&color=EA7D5D&vCenter=true&size=22">
 </p>
 
 <p align="center">
