@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dataleak.fr/assets/padlock.a29b2041.svg" height="100px" />
+  <img src="https://raw.githubusercontent.com/dataleak-fr/datapress/main/svg/logo_full.svg" height="400px" />
 </p>
 
 <h3 align="center">
