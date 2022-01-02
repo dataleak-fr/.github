@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dataleak-fr/datapress/main/svg/logo_full.svg" height="400px" />
+  <img src="https://raw.githubusercontent.com/dataleak-fr/datapress/main/svg/logo_full_without_slogan.svg" height="300px" />
 </p>
 
 <h3 align="center">
